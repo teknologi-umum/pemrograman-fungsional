@@ -7,10 +7,12 @@ pilihan kontributor baik dalama Bahasa Indonesia atau lainya.
 
 **Daftar Isi**
 
-- [Buku](./#Buku)
-- [Ekstensi](./#Ekstensi-Bahasa)
-- [Tulisan](./#Tulisan)
-- [Video](./#Video)
+- <a href="#buku">Buku</a>
+- <a href="#ekstensi-bahasa">Ekstensi Bahasa</a>
+- <a href="#komunitas">Komunitas</a>
+  - <a href="#telegram">Telegram</a>
+- <a href="#tulisan">Tulisan</a>
+- <a href="#video">Video</a>
 
 ## Tujuan
 
