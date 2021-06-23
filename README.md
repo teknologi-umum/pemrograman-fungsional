@@ -2,7 +2,7 @@
 
 Selamat datang, Lambdaners.
 
-Repositori ini didedikasikan menghimpun sumber daya untuk berkenalan dengan pemrogram fungsional
+Repositori ini didedikasikan menghimpun sumber daya seperti buku, tulisan dan video untuk berkenalan dengan pemrogram fungsional
 pilihan kontributor baik dalama Bahasa Indonesia atau lainya.
 
 ## Tujuan
@@ -44,9 +44,10 @@ Everyone should learn code, it teach how to think
 ## Video
 - [What is Functional Programming oleh Scott Murphy](https://www.youtube.com/watch?v=KHojnWHemO0)
 
+
 ## Kontribusi
 
-[WIP]
+Silahkan buka di [CONTRIBUTION](./CONTRIBUTION)
 
 ## Lisensi
 
