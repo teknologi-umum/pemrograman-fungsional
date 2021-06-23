@@ -3,7 +3,7 @@
 Selamat datang, Lambdaners.
 
 Repositori ini didedikasikan menghimpun sumber daya seperti buku, tulisan dan video untuk berkenalan dengan pemrogram fungsional
-pilihan kontributor baik dalama Bahasa Indonesia atau lainya.
+pilihan kontributor baik dalam (terutama) Bahasa Indonesia atau lainya.
 
 **Daftar Isi**
 
@@ -26,7 +26,8 @@ Everyone should learn code, it teach how to think
 ```
 
 ## Tulisan
-
+- [Functor, Applicative, dan Monad dengan Gambar](https://andraaa.my.id/blog/functor-applicative-dan-monad-dengan-gambar/)
+- [F# for fun and profit](https://fsharpforfunandprofit.com)
 - [Jargon Pemrograman Fungisonal](https://github.com/wisn/jargon-pemrograman-fungsional)
 - [Pengenalan Paradigma Pemrograman Fungsional Praktis](https://medium.com/paradigma-fungsional/perkenalan-paradigma-pemrograman-fungsional-praktis-7bc5dce026b9)
 - [Pengertian Lambda Kalkulus](http://martinalova98.blogspot.com/2013/12/pengertian-lambda-kalkulus.html)
@@ -35,6 +36,7 @@ Everyone should learn code, it teach how to think
 ## Buku
 
 - [Belajar Clojure](https://github.com/bepitulaz/BelajarClojure)
+- [Elm Programming](https://elmprogramming.com/)
 - [Real World Haskell (Buku Daring)](http://book.realworldhaskell.org/)
 - [Real World OCaml (Buku Daring)](https://dev.realworldocaml.org/)
 
@@ -49,10 +51,12 @@ Everyone should learn code, it teach how to think
 
 - [Clojure Indonesia](https://t.me/clojure_id)
 - [Common Lisp Indonesia](https://t.me/lisp_id)
+- [Elixir Indonesia](https://t.me/elixir_id)
 - [Elm Indonesia](https://t.me/elmindonesia)
 - [F# Indonesia](https://t.me/fsharp_id)
 - [Haskell Indonesia](https://t.me/haskell_id)
-- [OCaml ID](https://t.me/ocamlid)
+- [OCaml Indonesia](https://t.me/ocamlid)
+- [ReasonML ID](https://t.me/reasonML_id)
 - [Scala ID](https://t.me/scala_id)
 
 ## Video
