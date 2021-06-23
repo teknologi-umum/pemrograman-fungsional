@@ -1,6 +1,4 @@
-
-
-## Kumpulan Referensi Pemrograman Fungsional
+![Cover](./KP2F.png)
 
 Selamat datang, Lambdaners.
 
