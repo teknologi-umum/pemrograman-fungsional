@@ -47,7 +47,7 @@ Everyone should learn code, it teach how to think
 
 ## Kontribusi
 
-Silahkan buka di [CONTRIBUTION](./CONTRIBUTION)
+Silahkan buka di [CONTRIBUTION](./CONTRIBUTION.md)
 
 ## Lisensi
 
