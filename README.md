@@ -5,6 +5,13 @@ Selamat datang, Lambdaners.
 Repositori ini didedikasikan menghimpun sumber daya seperti buku, tulisan dan video untuk berkenalan dengan pemrogram fungsional
 pilihan kontributor baik dalama Bahasa Indonesia atau lainya.
 
+**Daftar Isi**
+
+- [Buku](./#Buku)
+- [Ekstensi](./#Ekstensi-Bahasa)
+- [Tulisan](./#Tulisan)
+- [Video](./#Video)
+
 ## Tujuan
 
 Repo ini dibangun untuk memudahkan kawan-kawan untuk mencari tutorial pemrograman fungsional dan mempelajarinya secara mendalam.
@@ -28,6 +35,11 @@ Everyone should learn code, it teach how to think
 - [Belajar Clojure](https://github.com/bepitulaz/BelajarClojure)
 - [Real World Haskell (Buku Daring)](http://book.realworldhaskell.org/)
 - [Real World OCaml (Buku Daring)](https://dev.realworldocaml.org/)
+
+## Ekstensi Bahasa
+
+- [fp-ts](https://github.com/gcanti/fp-ts)
+- [functional-go](https://github.com/logic-building/functional-go)
 
 ## Komunitas
 
