@@ -8,6 +8,7 @@ pilihan kontributor baik dalam (terutama) Bahasa Indonesia atau lainya.
 **Daftar Isi**
 
 - <a href="#buku">Buku</a>
+- <a href="#bahan-ajar">Bahan Ajar</a>
 - <a href="#ekstensi-bahasa">Ekstensi Bahasa</a>
 - <a href="#komunitas">Komunitas</a>
   - <a href="#telegram">Telegram</a>
@@ -32,13 +33,18 @@ Everyone should learn code, it teach how to think
 - [Pengenalan Paradigma Pemrograman Fungsional Praktis](https://medium.com/paradigma-fungsional/perkenalan-paradigma-pemrograman-fungsional-praktis-7bc5dce026b9)
 - [Pengertian Lambda Kalkulus](http://martinalova98.blogspot.com/2013/12/pengertian-lambda-kalkulus.html)
 
-
 ## Buku
 
 - [Belajar Clojure](https://github.com/bepitulaz/BelajarClojure)
+- [Dasar Haskell](https://haskell.web.id/static/dasar-haskell.pdf)
 - [Elm Programming](https://elmprogramming.com/)
 - [Real World Haskell (Buku Daring)](http://book.realworldhaskell.org/)
 - [Real World OCaml (Buku Daring)](https://dev.realworldocaml.org/)
+
+## Bahan Ajar
+
+- [Functional Programming in OCaml: A Principled Approach](https://www.cs.cornell.edu/courses/cs3110/2021sp/textbook/)
+- [Haskell Indonesia](https://haskell.web.id/lectures.html)
 
 ## Ekstensi Bahasa
 
