@@ -40,6 +40,7 @@ Everyone should learn code, it teach how to think
 - [Elm Programming](https://elmprogramming.com/)
 - [Real World Haskell (Buku Daring)](http://book.realworldhaskell.org/)
 - [Real World OCaml (Buku Daring)](https://dev.realworldocaml.org/)
+- [Write You a Haskell](http://dev.stephendiehl.com/fun/)
 
 ## Bahan Ajar
 
