@@ -38,8 +38,9 @@ Everyone should learn code, it teach how to think
 - [Belajar Clojure](https://github.com/bepitulaz/BelajarClojure)
 - [Dasar Haskell](https://haskell.web.id/static/dasar-haskell.pdf)
 - [Elm Programming](https://elmprogramming.com/)
-- [Real World Haskell (Buku Daring)](http://book.realworldhaskell.org/)
-- [Real World OCaml (Buku Daring)](https://dev.realworldocaml.org/)
+- [Learn You A Haskell](http://learnyouahaskell.com)
+- [Real World Haskell](http://book.realworldhaskell.org/)
+- [Real World OCaml](https://dev.realworldocaml.org/)
 - [Write You a Haskell](http://dev.stephendiehl.com/fun/)
 
 ## Bahan Ajar
