@@ -7,6 +7,7 @@ pilihan kontributor baik dalam (terutama) Bahasa Indonesia atau lainya.
 
 **Daftar Isi**
 
+- <a href="#bahasa">Bahasa</a>
 - <a href="#buku">Buku</a>
 - <a href="#bahan-ajar">Bahan Ajar</a>
 - <a href="#ekstensi-bahasa">Ekstensi Bahasa</a>
@@ -32,6 +33,18 @@ Everyone should learn code, it teach how to think
 - [Jargon Pemrograman Fungisonal](https://github.com/wisn/jargon-pemrograman-fungsional)
 - [Pengenalan Paradigma Pemrograman Fungsional Praktis](https://medium.com/paradigma-fungsional/perkenalan-paradigma-pemrograman-fungsional-praktis-7bc5dce026b9)
 - [Pengertian Lambda Kalkulus](http://martinalova98.blogspot.com/2013/12/pengertian-lambda-kalkulus.html)
+
+## Bahasa
+
+- [Clojure](https://clojure.org)
+- [Common Lisp](https://common-lisp.net)
+- [Elixir](https://elixir-lang.org)
+- [Elm](https://elm-lang.org)
+- [F#](https://fsharp.org)
+- [Haskell](https://haskell.org)
+- [OCaml](https://ocaml.org)
+- [Rescript](https://rescript-lang.org)
+- [Scala](https://www.scala-lang.org)
 
 ## Buku
 
