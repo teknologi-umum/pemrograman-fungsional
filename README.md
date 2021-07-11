@@ -31,6 +31,7 @@ Everyone should learn code, it teach how to think
 - [Functor, Applicative, dan Monad dengan Gambar](https://andraaa.my.id/blog/functor-applicative-dan-monad-dengan-gambar/)
 - [F# for fun and profit](https://fsharpforfunandprofit.com)
 - [Jargon Pemrograman Fungisonal](https://github.com/wisn/jargon-pemrograman-fungsional)
+- [Monday Morning Haskell](https://mmhaskell.com/)
 - [Pengenalan Paradigma Pemrograman Fungsional Praktis](https://medium.com/paradigma-fungsional/perkenalan-paradigma-pemrograman-fungsional-praktis-7bc5dce026b9)
 - [Pengertian Lambda Kalkulus](http://martinalova98.blogspot.com/2013/12/pengertian-lambda-kalkulus.html)
 
