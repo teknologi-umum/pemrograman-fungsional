@@ -50,6 +50,7 @@ Everyone should learn code, it teach how to think
 
 ## Buku
 
+- [Beautiful Racket](https://beautifulracket.com/)
 - [Belajar Clojure](https://github.com/bepitulaz/BelajarClojure)
 - [Dasar Haskell](https://haskell.web.id/static/dasar-haskell.pdf)
 - [Elm Programming](https://elmprogramming.com/)
