@@ -44,6 +44,7 @@ Everyone should learn code, it teach how to think
 - [F#](https://fsharp.org)
 - [Haskell](https://haskell.org)
 - [OCaml](https://ocaml.org)
+- [Racket](https://racket-lang.org/)
 - [Rescript](https://rescript-lang.org)
 - [Scala](https://www.scala-lang.org)
 
