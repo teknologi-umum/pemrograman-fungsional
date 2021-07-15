@@ -64,6 +64,7 @@ Everyone should learn code, it teach how to think
 
 - [Functional Programming in OCaml: A Principled Approach](https://www.cs.cornell.edu/courses/cs3110/2021sp/textbook/)
 - [Haskell Indonesia](https://haskell.web.id/lectures.html)
+- [Pemrograman Fungsional, Open Course Ware Universitas Indonesia](https://ocw.ui.ac.id/course/view.php?id=143)
 
 ## Ekstensi Bahasa
 
