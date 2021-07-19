@@ -43,6 +43,7 @@ Everyone should learn code, it teach how to think
 - [Elm](https://elm-lang.org)
 - [F#](https://fsharp.org)
 - [Haskell](https://haskell.org)
+- [Juniper](https://www.juniper-lang.org/)
 - [OCaml](https://ocaml.org)
 - [Racket](https://racket-lang.org/)
 - [Rescript](https://rescript-lang.org)
