@@ -33,6 +33,7 @@ Everyone should learn code, it teach how to think
 - [F# for fun and profit](https://fsharpforfunandprofit.com)
 - [Jargon Pemrograman Fungisonal](https://github.com/wisn/jargon-pemrograman-fungsional)
 - [Monday Morning Haskell](https://mmhaskell.com/)
+- [Paradigma Fungsional](https://kotakode.com/blogs/12746)
 - [Pengenalan Paradigma Pemrograman Fungsional Praktis](https://medium.com/paradigma-fungsional/perkenalan-paradigma-pemrograman-fungsional-praktis-7bc5dce026b9)
 - [Pengertian Lambda Kalkulus](http://martinalova98.blogspot.com/2013/12/pengertian-lambda-kalkulus.html)
 
