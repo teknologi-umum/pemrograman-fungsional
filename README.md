@@ -28,6 +28,7 @@ Everyone should learn code, it teach how to think
 ```
 
 ## Tulisan
+- [Beating the Average](http://www.paulgraham.com/avg.html)
 - [Functor, Applicative, dan Monad dengan Gambar](https://andraaa.my.id/blog/functor-applicative-dan-monad-dengan-gambar/)
 - [F# for fun and profit](https://fsharpforfunandprofit.com)
 - [Jargon Pemrograman Fungisonal](https://github.com/wisn/jargon-pemrograman-fungsional)
