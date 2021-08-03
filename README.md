@@ -28,6 +28,7 @@ Everyone should learn code, it teach how to think
 ```
 
 ## Tulisan
+- [An introduction to typeclass metaprogramming](https://lexi-lambda.github.io/blog/2021/03/25/an-introduction-to-typeclass-metaprogramming/)
 - [Beating the Average](http://www.paulgraham.com/avg.html)
 - [Functor, Applicative, dan Monad dengan Gambar](https://andraaa.my.id/blog/functor-applicative-dan-monad-dengan-gambar/)
 - [F# for fun and profit](https://fsharpforfunandprofit.com)
