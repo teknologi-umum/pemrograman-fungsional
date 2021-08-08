@@ -93,6 +93,7 @@ Everyone should learn code, it teach how to think
 ## Video
 - [What is Functional Programming oleh Scott Murphy](https://www.youtube.com/watch?v=KHojnWHemO0)
 - [Driving an FP-first company, with Serokell CEO Arseniy Seroka](https://www.youtube.com/watch?v=ZoiHKnVTvZ8)
+- [Pengantar Kalkulus Lambda oleh Idiosemantik](https://www.youtube.com/watch?v=BinlkRGwf_I)
 
 
 ## Kontribusi
