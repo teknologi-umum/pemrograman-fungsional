@@ -58,6 +58,7 @@ Everyone should learn code, it teach how to think
 - [Beautiful Racket](https://beautifulracket.com/)
 - [Belajar Clojure](https://github.com/bepitulaz/BelajarClojure)
 - [Dasar Haskell](https://haskell.web.id/static/dasar-haskell.pdf)
+- [Diktat Dasar Pemrograman : Pemrograman Fungsional](http://www.buku-e.lipi.go.id/penulis/ingg001/1343696241buku.pdf)
 - [Elm Programming](https://elmprogramming.com/)
 - [OCaml From the Ground Up](https://ocamlbook.org/)
 - [Pemrograman Fungsional untuk Rakyat Jelata dengan Scalaz](https://leanpub.com/fpmortals-id)
