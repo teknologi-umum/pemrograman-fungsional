@@ -60,6 +60,7 @@ Everyone should learn code, it teach how to think
 - [Dasar Haskell](https://haskell.web.id/static/dasar-haskell.pdf)
 - [Diktat Dasar Pemrograman : Pemrograman Fungsional](http://www.buku-e.lipi.go.id/penulis/ingg001/1343696241buku.pdf)
 - [Elm Programming](https://elmprogramming.com/)
+- [Elm Tutorial](https://sporto.gitbooks.io/elm-tutorial/content/en/)
 - [OCaml From the Ground Up](https://ocamlbook.org/)
 - [Pemrograman Fungsional untuk Rakyat Jelata dengan Scalaz](https://leanpub.com/fpmortals-id)
 - [Learn You A Haskell](http://learnyouahaskell.com)
