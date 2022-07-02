@@ -66,6 +66,7 @@ Everyone should learn code, it teach how to think
 - [Learn You A Haskell](http://learnyouahaskell.com)
 - [Real World Haskell](http://book.realworldhaskell.org/)
 - [Real World OCaml](https://dev.realworldocaml.org/)
+- [Think OCaml: Berpikir (Fungsional) Layaknya Ilmuwan Komputer (dalam penerjemahaan)](https://github.com/frederett/Think-OCaml-Bahasa-Indonesia)
 - [Write You a Haskell](http://dev.stephendiehl.com/fun/)
 
 ## Bahan Ajar
